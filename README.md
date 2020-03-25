@@ -29,7 +29,7 @@ A new Anaconda environment will be created with all the necessary dependencies. 
 - ```cudatoolkit 10.0.130```
 - ```opencv 4.1.2```
 
-However, make sure you have installed all dependencies in the ```.yml```` file.
+However, make sure you have installed all dependencies in the ```.yml``` file.
 
 ## Training process
 You can train our model with your own data. You will need to modify the ```config.py``` file:
