@@ -1,7 +1,7 @@
 # Panoramic-CNN-360-Saliency
-Code and models for Panoramic CNN 360º Saliency: [include URL when ready]
+Code and models for Panoramic CNN 360º Saliency: [URL here, when ready]
 
-## teaser here
+![TEASER](https://github.com/DaniMS-ZGZ/Panoramic-CNN-360-Saliency/blob/master/figs/teaser_final.jpg)
 
 ## Authors
 
@@ -13,7 +13,7 @@ All the authors are part of the [Graphics & Imaging Lab](https://graphics.unizar
 
 ## Workshop info
 
-This paper was submitted to BLA BLAH
+This work was submitted to the [Fourth Workshop on Computer Vision for AR/VR](https://mixedreality.cs.cornell.edu/workshop/2020)
 
 # How to use our model
 Our model was created and run over Anaconda. We provide a ```.yml``` file with all the dependencies installed. To create an Anaconda environment from our configuration .yml file, just run the following command in Anaconda:
@@ -73,6 +73,7 @@ python main.py --test <id>
 ```
 
 ### Directory prediction
+To predict saliency maps for a whole directory, you just have to run:
 ```
 python main.py --multitest
 ```
