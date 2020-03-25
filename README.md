@@ -71,6 +71,7 @@ To predict the saliency map for a single image, you just have to run:
 ```
 python main.py --test <id>
 ```
+where <id> is the numeric ID of the image you want to test with. (0 for the first image in your directory, 1 for the second, and so on).
 
 ### Directory prediction
 To predict saliency maps for a whole directory, you just have to run:
