@@ -78,3 +78,14 @@ To predict saliency maps for a whole directory, you just have to run:
 ```
 python main.py --multitest
 ```
+
+# Citation
+If you find our work useful, please consider adding a citation:
+```
+@article{martin20saliency,
+    author = {Martin, Daniel and Serrano, Ana and Masia, Belen},
+    title = {Panoramic convolutions for 360º single-image saliency prediction},
+    ...
+    year = {2020}
+}
+```
