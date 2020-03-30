@@ -19,7 +19,7 @@ This work was submitted to the [Fourth Workshop on Computer Vision for AR/VR](ht
 Our model was created and run over Anaconda. We provide a ```.yml``` file with all the dependencies installed. To create an Anaconda environment from our configuration .yml file, just run the following command in Anaconda:
 
 ```
-conda env create --name <envname> --file=unet_gpu.yml
+conda env create --name <envname> --file=saliency.yml
 ```
 
 A new Anaconda environment will be created with all the necessary dependencies. We are using the following main packages:
