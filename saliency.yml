@@ -83,5 +83,3 @@ dependencies:
     - torchsummary==1.5.1
     - tqdm==4.36.1
     - urllib3==1.25.7
-prefix: D:\Anaconda\envs\unet_gpu
-
