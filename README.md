@@ -83,9 +83,9 @@ python main.py --multitest
 If you find our work useful, please consider adding a citation:
 ```
 @inproceedings{martin20saliency,
-    author = {Martin, Daniel and Serrano, Ana and Masia, Belen},
-    title = {Panoramic convolutions for 360º single-image saliency prediction},
+    author={Martin, Daniel and Serrano, Ana and Masia, Belen},
+    title={Panoramic convolutions for 360º single-image saliency prediction},
     booktitle={Fourth Workshop on Computer Vision for AR/VR},
-    year = {2020}
+    year={2020}
 }
 ```
