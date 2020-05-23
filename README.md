@@ -84,7 +84,7 @@ If you find our work useful, please consider adding a citation:
 ```
 @inproceedings{martin20saliency,
     author={Martin, Daniel and Serrano, Ana and Masia, Belen},
-    title={Panoramic convolutions for 360º single-image saliency prediction},
+    title={Panoramic convolutions for $360^{\circ}$ single-image saliency prediction},
     booktitle={Fourth Workshop on Computer Vision for AR/VR},
     year={2020}
 }
