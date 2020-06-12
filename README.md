@@ -1,15 +1,15 @@
-# Panoramic-CNN-360-Saliency
-Code and models for Panoramic CNN 360º Saliency: [URL here, when ready]
+# Panoramic convolutions for 360º single-image saliency prediction
+Code and models for "Panoramic convolutions for 360º single-image saliency prediction": [PDF](http://webdiis.unizar.es/~danims/files/pubs/VR-Saliency-2020.pdf)
 
 ![TEASER](https://github.com/DaniMS-ZGZ/Panoramic-CNN-360-Saliency/blob/master/figs/teaser_final.jpg)
 
 ## Authors
 
 Daniel Martin - http://webdiis.unizar.es/~danims/  
-Ana Serrano - http://webdiis.unizar.es/~aserrano/  
+Ana Serrano - https://ana-serrano.github.io/
 Belen masia - http://webdiis.unizar.es/~bmasia/  
 
-All the authors are part of the [Graphics & Imaging Lab](https://graphics.unizar.es)
+All the authors are current or former members of the [Graphics & Imaging Lab](https://graphics.unizar.es)
 
 ## Workshop info
 
