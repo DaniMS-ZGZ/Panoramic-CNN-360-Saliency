@@ -7,7 +7,7 @@ Code and models for "Panoramic convolutions for 360º single-image saliency pred
 
 Daniel Martin - http://webdiis.unizar.es/~danims/  
 Ana Serrano - https://ana-serrano.github.io/  
-Belen masia - http://webdiis.unizar.es/~bmasia/  
+Belen Masia - http://webdiis.unizar.es/~bmasia/  
 
 All the authors are current or former members of the [Graphics & Imaging Lab](https://graphics.unizar.es)
 
