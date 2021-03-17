@@ -1,5 +1,5 @@
 # Panoramic convolutions for 360º single-image saliency prediction
-Code and models for "Panoramic convolutions for 360º single-image saliency prediction": [PDF](http://webdiis.unizar.es/~danims/files/pubs/VR-Saliency-2020.pdf)
+Code and models for "Panoramic convolutions for 360º single-image saliency prediction": [PDF](https://graphics.unizar.es/papers/Martin-VR-Saliency-2020.pdf)
 
 ![TEASER](https://github.com/DaniMS-ZGZ/Panoramic-CNN-360-Saliency/blob/master/figs/teaser_final.jpg)
 
